@@ -1,3 +1,7 @@
+About Project
+
+A basic web application platform which provides weather information of a city the user searches for. It has different search options and handles errors if the city doesn’t exist. The application displays the Daily Temperature, City, Weather description and subsequently changes the background images.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
